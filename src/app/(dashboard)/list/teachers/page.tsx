@@ -48,7 +48,7 @@ const columns = [
     accessor: "address",
     className: "hidden lg:table-cell",
   },
-  {A
+  {
     header: "Actions",
     accessor: "action",
   },
