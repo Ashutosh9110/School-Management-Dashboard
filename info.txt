@@ -1,0 +1,6 @@
+
+
+npx prisma db seed
+
+(start Docker first and then run)
+npx prisma studio
